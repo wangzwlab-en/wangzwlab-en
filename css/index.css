@@ -6242,7 +6242,7 @@ blockquote.pullquote.right {
 .sty3 {
   background-color: #91AA9D;
   color:white;
-  height: 1000px;
+  height: auto;
   display: flex;
   align-items: flex-start;
 }
